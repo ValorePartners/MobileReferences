@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Sample.Android/Sample.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../MobileRef.Pagination.Android/MainActivity.cs">
+    <Files>
+      <File FileName="../../../../MobileRef.Pagination.Android/MainActivity.cs" Line="50" Column="1" />
+      <File FileName="../../../../MobileRef.Pagination.Android/Framework/MVVMExtensions.cs" Line="619" Column="51" />
+      <File FileName="../../../../MobileRef.Pagination.Android/Framework/VPExtensionHelpers.cs" Line="64" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MobileRef.Pagination.Android" expanded="True">
+            <Node name="References" expanded="True">
+              <Node name="From Packages" expanded="True" />
+            </Node>
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Framework" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True" />
+            </Node>
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+          <Node name="MobileRef.Pagination.IOS" expanded="True">
+            <Node name="Controllers" expanded="True" />
+          </Node>
+          <Node name="MobileRef.Pagination.Shared" expanded="True">
+            <Node name="ViewModels" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

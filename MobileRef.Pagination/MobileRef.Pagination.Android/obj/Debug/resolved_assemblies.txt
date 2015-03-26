@@ -1,0 +1,7 @@
+/Users/Les/Desktop/MobileRef.Pagination/MobileRef.Pagination.Android/bin/Debug/MobileRef.Pagination.Android.dll
+/Users/Les/Desktop/MobileRef.Pagination/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+/Users/Les/Desktop/MobileRef.Pagination/packages/modernhttpclient.2.3.0/lib/MonoAndroid/ModernHttpClient.dll
+/Users/Les/Desktop/MobileRef.Pagination/packages/modernhttpclient.2.3.0/lib/MonoAndroid/OkHttp.dll
+/Users/Les/Desktop/MobileRef.Pagination/Components/AndHUD-1.3.1/lib/android/AndHUD.dll
+/Users/Les/Downloads/PullToRefresharp-master 2/PullToRefresharp.Android/bin/Debug/PullToRefresharp.dll
+/Users/Les/Desktop/MobileRef.Pagination/MobileRef.Pagination.Android/bin/Debug/Xamarin.Android.Support.v4.dll

@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="MobileRef.Pagination.Android/MobileRef.Pagination.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileRef.Pagination.Shared/ViewModels/MedicalArticleViewModel.cs">
+    <Files>
+      <File FileName="MobileRef.Pagination.IOS/Controllers/ArticleTableController.cs" Line="62" Column="80" />
+      <File FileName="MobileRef.Pagination.Android/MainActivity.cs" Line="87" Column="1" />
+      <File FileName="MobileRef.Pagination.Shared/ViewModels/MedicalArticleViewModel.cs" Line="15" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MobileRef.Pagination.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

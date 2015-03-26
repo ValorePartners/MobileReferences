@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{E7F0A615-B971-4B08-8662-D3DC50798926}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>MobileRef.Pagination.Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Models\MedicalArticle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\MedicalArticleViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Shared\AppData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Shared\LocalStorageService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Shared\RestService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Shared\SharedExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Shared\VMBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Models\" />
+    <Folder Include="$(MSBuildThisFileDirectory)ViewModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Shared\nosql_reference.txt" />
+  </ItemGroup>
+</Project>
